@@ -11,7 +11,7 @@ I'm a Product Manager, Data Scientist, and AI Enthusiast. I'm passionate about b
 - 🌱 I’m currently learning Product Management, Data Visualization, and Machine Learning.
 - 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Product Management, Data Analyst, or UX Researcher (Intern or Associate level).
-- 📫 You can contact me by emailing ajaayomide96@gmail.com.
+- 📫 You can [view my resume](https://docs.google.com/document/d/1ZfJGa5hVg4DO_uovRJiW__0yYLiYnYKeYvbPlVkZflI/edit) or contact me by emailing ajaayomide96@gmail.com.
 
 ---
 
